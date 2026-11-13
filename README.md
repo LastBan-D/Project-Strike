@@ -14,7 +14,7 @@ Educational tactical FPS built with Unity and C#.
 
 ## Development
 
-Status: Week 1 — Environment Setup
+Status: Week 2 — First Unity Project
 
 Engine: Unity 6.3 LTS
 Language: C#
